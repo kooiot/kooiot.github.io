@@ -1,19 +1,18 @@
-- question: Is the starter pack really free?
+- question: KooIoT Cloud 是免费的吗？Is the starter pack really free?
   answer: |
-    Yes, the starter pack of our could is free, the FreeIOE is free to use in any device. 
-    For application payment, you need to check the application price.
-- question: What is your return policy?
+    是的，KooIoT提供免费的基础云服务功能, 并且与之配套的网关框架FreeIOE是一款开源的产品。
+    Yes, the starter pack of KooIoT Cloud is free.
+    The gateway framework FreeIOE is an open source project.
+- question: KooIoT Cloud 可以用来做什么? How to use KooIoT?
   answer: |
-    May years spirit of grass shall. Form also seas had that very was lesser creature void. Fill under
-    she'd own is light stars isn't moved you're.
-- question: Can I quit my subscription at any time?
+    KooIoT 提供FreeIOE网关产品的管理维护，提供设备数据的存储、分析，提供设备事件报警、操作记录等等服务。 使用KooIoT可以快速构建物联网产品/项目。
+    KooIoT Cloud used for FreeIOE gateway maintaince, device history data saving, data analysis, device events, device activities and so on.
+- question: 什么是FreeIOE网关？ What is the FreeIOE Gateway?
   answer: |
-    There he meat forth days in. Fruit dry every morning Beast that saw. Every creature itself hath
-    called bearing likeness signs upon firmament fruit two life forth beginning you're heaven fruitful
-    under rule Don't fourth years our. Kind itself days.
-- question: Can I upgrade my plan?
+    FreeIOE网关是基于FreeIOE框架的物联网智能网关，是一款软件定义功能的产品。
+    FreeIOE Gateway device is built with FreeIOE framework, all features defined by the FreeIOE application used in device.
+- question: 付费的功能都有那些? Can I upgrade my plan?
   answer: |
-    Aliquam Maecenas consectetuer nisl cum inceptos. Massa lectus euismod dui Consequat habitasse
-    enim sodales quisque aliquet. Semper condimentum id, hendrerit sodales mi nam netus dictumst
-    platea. Elementum praesent ridiculus nec felis ipsum duis mauris fringilla tempus purus
-    vehicula ullamcorper dis Ornare.
+    付费客户可以拥有更长的设备存储时长，免费用户设备数据存储时长仅为六个月，付费客户可以拥有FreeIOE设备的电话和在线技术支持，而免费用户仅能从技术社区获取支持。
+    KooIoT Cloud starter pack only saving device data within six months, you need upgrade you plan to get longger duration. And the telephone support and online support are also the included in your pro pack.
+
